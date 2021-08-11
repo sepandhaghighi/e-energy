@@ -1,2 +1,2 @@
-docs/_site/*.toml
+docs/_site/.well-known/*.toml
   Content-Type: text/html
